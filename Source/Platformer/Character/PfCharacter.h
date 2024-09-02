@@ -18,8 +18,8 @@
 // Last
 #include "PfCharacter.generated.h"
 
-UCLASS(config = Game)
-class APfCharacter : public ACharacter
+UCLASS()
+class PLATFORMER_API APfCharacter : public ACharacter
 {
 	GENERATED_BODY()
 

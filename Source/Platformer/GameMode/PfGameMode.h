@@ -18,8 +18,8 @@
 // Last
 #include "PfGameMode.generated.h"
 
-UCLASS(minimalapi)
-class APfGameMode : public AGameModeBase
+UCLASS()
+class PLATFORMER_API APfGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 };
