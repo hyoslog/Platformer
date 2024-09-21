@@ -13,7 +13,7 @@
 // Project-specific
 #include "AbilitySystem/Abliity/PfGameplayAblity.h"
 #include "AbilitySystem/Attribute/PfAttributeSet.h"
-#include "AbilitySystem/PfAbilitySystemComponent.h"
+#include "Component/AbilitySystem/PfAbilitySystemComponent.h"
 
 // Local
 
